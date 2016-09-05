@@ -14,3 +14,12 @@
 - I made it so you can rotate your square (ship) both left and right.
 - Where I've gotten stuck is calculating how your ship moves when you press up and down based on rotation. I'm trying to take your rotation divided by either 360 or 180 (I keep swithing back and forth trying to see which one is more accurate) then with that calculate your moves on the x/y grid. So far it's a total failure.
 - here's the commit https://github.com/fabean/buffhammer/commit/b439375b30e517be0abc5c7c79a1172276702c99
+
+### Day 4: September 4, 2016
+- Mostly just played with Sin, Cosine and tangent on paper and Math.sin() in console for awhile.
+
+### Day 5: September 5, 2016
+- You can now fly around almost as expected!
+- I am now calculating what quadrant you're flying in to figure out where to assing X&Y.
+- Still working on what to do when you enter into negative degrees
+- here's the commit https://github.com/fabean/buffhammer/commit/ea2604cba14aa0bf47eb9445737446a191bef8ea
