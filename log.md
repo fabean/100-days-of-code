@@ -23,3 +23,10 @@
 - I am now calculating what quadrant you're flying in to figure out where to assing X&Y.
 - Still working on what to do when you enter into negative degrees
 - here's the commit https://github.com/fabean/buffhammer/commit/ea2604cba14aa0bf47eb9445737446a191bef8ea
+
+### Day 6: September 6, 2016
+- You can now shoot lasers
+- You can also there are no longer issues with negative degrees
+- here's the commits:
+  - https://github.com/fabean/buffhammer/commit/53e3d5af67f8a42d93d9fdb00da3e43e8582f07e 
+  - https://github.com/fabean/buffhammer/commit/3db2469161d5092b50bf20ba7613e9983cafa00f
