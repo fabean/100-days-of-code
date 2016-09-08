@@ -30,3 +30,13 @@
 - here's the commits:
   - https://github.com/fabean/buffhammer/commit/53e3d5af67f8a42d93d9fdb00da3e43e8582f07e 
   - https://github.com/fabean/buffhammer/commit/3db2469161d5092b50bf20ba7613e9983cafa00f
+
+### Day 7: September 7, 2016
+- There are now randomly generated asteroids
+- You can shoot these asteroids and you get a point to your score and the asteroids disappear
+- The asteroids can hit you can you lose a life and they disappear
+- here is the commit: https://github.com/fabean/buffhammer/commit/08f160f0d4dea5fbb95bd2df71667d62f0a306fe
+- TODOS:
+  - I need to clean up this code and break things into more reusable functions
+  - I need to fix collision detection since things are rotated my collision detection isn't that good
+  - I need to make asteroids have better paths and not appear in the middle of the screen
