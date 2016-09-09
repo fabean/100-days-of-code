@@ -40,3 +40,9 @@
   - I need to clean up this code and break things into more reusable functions
   - I need to fix collision detection since things are rotated my collision detection isn't that good
   - I need to make asteroids have better paths and not appear in the middle of the screen
+
+### Day 8: September 8, 2016
+- Things now never fall off the screen, this creates a bit of chaos as your lasers and the asteroids fly around until you run into them or shoot them.
+- If your life goes to 0 you get a game over screen
+- I cleaned up some of the calculating if you hit the wall code to be reusable.
+- here is the commit: https://github.com/fabean/buffhammer/commit/9c443659c62c73e9342ddc7ce4b888d07ac521c1
