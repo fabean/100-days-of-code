@@ -46,3 +46,5 @@
 - If your life goes to 0 you get a game over screen
 - I cleaned up some of the calculating if you hit the wall code to be reusable.
 - here is the commit: https://github.com/fabean/buffhammer/commit/9c443659c62c73e9342ddc7ce4b888d07ac521c1
+
+### Day 9: September 9, 2016
